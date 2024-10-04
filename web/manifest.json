@@ -1,6 +1,6 @@
 {
-    "name": "soila",
-    "short_name": "soila",
+    "name": "flutter_gemini",
+    "short_name": "flutter_gemini",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
